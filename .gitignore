@@ -1,3 +1,4 @@
 target\/nbuild/
 dist/
 nbproject/private/
+/build/
